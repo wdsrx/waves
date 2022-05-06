@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>WDSrx</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 col-md-12 jumbotron text-center">
+        <h1>Outbound</h1>
+        <h2>Waves</h2>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-12 col-md-12 ">
+        <div id="plot"></div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-4 col-md-4">
+        <div class="well">
+          <h5>Select Warehouse</h5>        
+          <select id="selDataset">
+            
+          </select>   
+        </div>
+      </div>
+      
+    </div>
+
+    <div class="row">
+      <div class="col-sm-12 col-md-12">
+
+        <table class="table table-striped">
+          <thead id="table-data">
+              <tr>
+                  <th>Date</th>
+                  <th>Wave</th>
+                  <th>Warehouse</th>
+                  <th>Customer</th>
+                  <th>Released</th>
+                  <th>Executing</th>
+                  <th>Completed</th>
+              </tr>
+          </thead>
+          <tbody> </tbody>
+        </table>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="js/tables.js"></script>
+
+</body>
+
+</html>
