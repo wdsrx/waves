@@ -1,1 +1,1 @@
-{"Date":{"0":"May 23 2022 12:00AM","1":"May 20 2022  4:15PM","2":"May 20 2022  3:28PM"},"id":{"0":237774,"1":237784,"2":237773},"Warehouse":{"0":"10","1":"16","2":"10"},"Customer":{"0":"ISDIN Corporation","1":"SHL Pharma, LLC","2":"Methapharm, Inc."},"Released":{"0":33,"1":1,"2":1},"Completed":{"0":1,"1":"","2":1}}
+{"Date":{"0":"May 23 2022 12:00AM","1":"May 20 2022  4:15PM"},"id":{"0":237774,"1":237784},"Warehouse":{"0":"10","1":"16"},"Customer":{"0":"ISDIN Corporation","1":"SHL Pharma, LLC"},"Released":{"0":33,"1":1},"Completed":{"0":1,"1":""}}
