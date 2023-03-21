@@ -1,1 +1,1 @@
-{"Date":{"0":"Mar 21 2023  8:30AM","1":"Mar 20 2023 12:30PM"},"id":{"0":259596,"1":259574},"Warehouse":{"0":"10","1":"10"},"Customer":{"0":"ISDIN Corporation","1":"Livs Products"},"Released":{"0":1,"1":""},"Executing":{"0":"","1":1}}
+{"Date":{"0":"Mar 21 2023  8:30AM","1":"Mar 21 2023  8:01AM","2":"Mar 20 2023 12:30PM"},"id":{"0":259596,"1":259597,"2":259574},"Warehouse":{"0":"10","1":"20","2":"10"},"Customer":{"0":"ISDIN Corporation","1":"Granules Consumer Health","2":"Livs Products"},"Released":{"0":1,"1":1,"2":""},"Executing":{"0":"","1":"","2":1}}
